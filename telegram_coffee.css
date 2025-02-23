@@ -100,7 +100,7 @@
   background-color: #C1876B;
 }
 *{
-  background-color: #FDD9B5;
+  background-color: white;
 }
 
 .kaputino_text{
@@ -108,7 +108,7 @@
   font-weight: 400;
   font-style: normal;
   height:400px;
-  padding-left: 400px;
+  padding-left: 40px;
   margin-right: 30px;
   margin-left:30px;
   background-color: black;
